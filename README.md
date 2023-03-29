@@ -1,6 +1,11 @@
 # Home Page
 ![Screenshot (257)](https://user-images.githubusercontent.com/107167604/228674529-9c0bf3fb-5e99-4b15-825e-83eea7049834.png)
 
+# Login Page
+![Screenshot (259)](https://user-images.githubusercontent.com/107167604/228674960-2ef11475-6d2b-45ac-857b-66c285e62055.png)
+
+# Register Page
+![Screenshot (260)](https://user-images.githubusercontent.com/107167604/228675087-453fefba-2ced-4f58-a291-365caeaa9627.png)
 
 # Getting Started with Create React App
 
